@@ -1,5 +1,5 @@
 # funcspy
-A malware static analysis tool to quickly identify suspicious functions loaded from DLLs.
+A simple malware static analysis tool to quickly identify suspicious functions loaded from DLLs.
 
 **NOTE**: Based off the database from malapi.io
 
